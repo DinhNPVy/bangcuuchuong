@@ -9,5 +9,5 @@ document.write("<table border=1 width=100%>")
     document.write("</td>");
 	document.write("</tr>")
     }
-document.write("</tr></table>")
+document.write("</table>")
 }
